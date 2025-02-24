@@ -3,3 +3,4 @@ matplotlib==3.10.0
 numpy==2.2.3
 seaborn==0.13.2
 streamlit==1.40.1
+sklearn
